@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.license  = 'MIT'
   s.summary  = 'The synchronous Twitter engine that doesn’t suck!! USE THE MASTER BRANCH'
   s.homepage = 'https://github.com/ronaldwang/FHSTwitterEngine'
-  s.author   = { 'Jason Hsu' => 'twieface@gmail.com' }
+  s.author   = { 'Jason Hsu' => ' twieface@gmail.com' }
   s.source   = { :git => 'https://github.com/ronaldwang/FHSTwitterEngine.git', :tag => s.version.to_s }
   s.description = 'The synchronous Twitter engine that doesn’t suck!! USE THE MASTER BRANCH'
   s.source_files = ['FHSTwitterEngine/*.{h,m}', 'FHSTwitterEngine/OAuthConsumer/**/*.{h,m,c}']
